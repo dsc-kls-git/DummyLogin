@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="conpass">Confirm Password</string>
+    <string name="signup">SIgnup</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="myfirstapp">My First App</string>
+    <string name="todo">TODO</string>
+</resources>
